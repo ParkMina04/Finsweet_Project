@@ -895,6 +895,7 @@ table {
 
     .second-container .intro{
         float: none;
+        max-width: 100%;
     }
 
     .second-container .grid-part{
